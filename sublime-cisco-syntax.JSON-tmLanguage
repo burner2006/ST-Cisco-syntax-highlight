@@ -63,7 +63,7 @@
 			"name": "constant.numeric.cisco"
 		},
 		{ 
-			"match": "nat |sla |transport|authentication|authorization|accounting|flow|address",
+			"match": "nat |sla |transport |authentication |authorization |accounting |flow ",
 			"name": "entity.name.function.cisco"
 		},
 		{ 
